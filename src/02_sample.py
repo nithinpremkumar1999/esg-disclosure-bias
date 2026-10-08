@@ -1,6 +1,6 @@
 """Step 2: draw the stratified disclosure sample and write a blank collection sheet.
 
-10 companies per size decile, financials excluded (Osmosis does not score them),
+10 companies per size decile, financials excluded (disclosure-based efficiency scores typically exclude them),
 fixed seed so the draw reproduces. Output: data/disclosure_sample.csv with empty
 columns to fill by hand from each company's latest annual / sustainability report.
 """

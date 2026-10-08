@@ -188,7 +188,7 @@ def chart_c2(sim):
             ("Omnibus, all stop", sim["omnibus"]["1.0"])]
     labels = [r[0] for r in rows][::-1]
     fig = go.Figure()
-    for t, name, off in (("T1", "T1 · unscored = sector bottom (current rule)", 0.14),
+    for t, name, off in (("T1", "T1 · penalise: unscored = sector bottom", 0.14),
                          ("T2", "T2 · unscored = neutral", -0.14)):
         m = [r[1][t]["small_half_vs_oracle"]["mean"] for r in rows][::-1]
         lo = [r[1][t]["small_half_vs_oracle"]["p05"] for r in rows][::-1]

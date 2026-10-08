@@ -8,7 +8,7 @@
 - `water`: water withdrawal **or** consumption volume
 - `waste`: total waste generated (tonnes)
 
-A company is **scored** when at least 2 of the 3 are `Y`, mirroring the rule Osmosis describes publicly.
+A company is **scored** when at least 2 of the 3 are `Y`, a minimum-disclosure rule used by disclosure-based efficiency signals.
 
 **Sources and protocol.**
 

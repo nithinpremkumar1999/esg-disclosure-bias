@@ -8,7 +8,7 @@ Stylised set-up on the full non-financial STOXX Europe 600 universe:
 
 Treatments for unscored firms:
   T0  oracle: every firm scored (reference, not achievable)
-  T1  unscored = sector bottom score (the rule Osmosis describes publicly)
+  T1  unscored = sector bottom score (penalise non-disclosure)
   T2  unscored = neutral, held at benchmark weight
   T3  T2, then scores size-neutralised within sector (cap-weighted)
   T4  T1, then scores size-neutralised within sector (keeps the penalty, removes the size bet)

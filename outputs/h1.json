@@ -4,15 +4,15 @@
   "scored_rate": 0.93,
   "log_size_centre": -2.6754543608605688,
   "logit_intercept": 2.8397600030633976,
-  "logit_slope": 0.7819250112017181,
-  "logit_slope_se": 0.554241967270057,
+  "logit_slope": 0.781925011201718,
+  "logit_slope_se": 0.5542419672700571,
   "logit_slope_ci95": [
-    -0.3043692833682211,
-    1.8682193057716572
+    -0.30436928336822144,
+    1.8682193057716574
   ],
-  "logit_slope_p": 0.15830335834516907,
-  "logit_slope_conservative": 2.6475214783403462,
-  "logit_slope_conservative_p": 0.22672072078178684,
+  "logit_slope_p": 0.15830335834516918,
+  "logit_slope_conservative": 2.647521478340345,
+  "logit_slope_conservative_p": 0.22672072078178584,
   "n_unscored_conservative": 2,
   "fisher_table_median_split": [
     [

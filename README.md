@@ -2,11 +2,11 @@
 
 How missing environmental data shapes the size exposure of a Resource Efficiency tilt.
 
-This repository holds an independent analysis built on public data and a stylised model. It is not affiliated with Osmosis Investment Management. The published report is `site/index.html`.
+An independent analysis built on public data and a stylised model. The published report is `site/index.html`.
 
 ## Question
 
-Osmosis scores a company only if it discloses enough on at least 2 of 3 metrics (carbon, water, waste). Its Core strategies treat unscored companies as inefficient.
+Resource-efficiency signals often score a company only if it discloses enough on at least 2 of 3 metrics (carbon, water, waste), and treat unscored companies as inefficient.
 
 If disclosure rises with company size, does that rule turn an efficiency tilt partly into a size tilt? And would a different treatment of *absence*, still using no estimated or vendor data, avoid it?
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 Every number in the report text is read from `outputs/results.json`. Nothing is typed by hand.
 
-Author name, date, contact links and the personal link paths live in `site_config.json`. `site/_redirects` serves the same page on each personal path (e.g. `/silvio`), so the host's analytics can show which link was opened.
+Author name, date, contact links and the personal link paths live in `site_config.json`. `site/_redirects` serves the same page on each personal path (e.g. `/a7k2`), so the host's analytics can show which link was opened.
 
 ## Repository layout
 
@@ -48,7 +48,7 @@ site/            index.html + _redirects (the deployed folder)
 
 Each run gives every non-financial STOXX Europe 600 constituent a true efficiency score drawn from N(0,1), independent of size by construction. Each company is then scored with the probability fitted in step 3. A sector-neutral, long-only linear tilt follows, `w = b·(1 + λ(s − s̄_sector))` with λ = 0.5, run 1,000 times. Treatments of unscored companies:
 
-- **T1:** sector bottom score (the current rule)
+- **T1:** sector bottom score (penalise non-disclosure)
 - **T2:** neutral, held at benchmark weight
 - **T3:** T2 plus size-neutralised scores
 - **T4:** T1 plus size-neutralised scores
