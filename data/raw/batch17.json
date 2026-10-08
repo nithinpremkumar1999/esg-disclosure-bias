@@ -1,0 +1,5 @@
+[
+ {"name":"ABIVAX SA","scope12_ghg":"N","water":"N","waste":"N","report_year":"2024","employees":"","revenue_eur_m":"0","omnibus_in_scope":"N","source_url":"https://tracenable.com/company/abivax/ghg-emissions","notes":"Tracenable: GHG not covered. URD 2025 (FY2024, https://ir.abivax.com/static-files/7e25504a-b0f1-447b-8ec9-802f105af84e) lists an environmental section but no quantities found in fetched text; Q1 2025 release shows no product revenue (pre-commercial biotech). Verification partial. Below Omnibus turnover threshold"},
+ {"name":"GAZTRANSPORT & TECHNIGAZ SA","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","employees":"888","omnibus_in_scope":"N","source_url":"https://tracenable.com/company/gaztransport-et-technigaz/ghg-emissions","notes":"Tracenable, citing URD 2025. Employees 732-888 per tracenable profile -> below 1,000 Omnibus threshold"},
+ {"name":"SECURITAS B","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/securitas/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"}
+]

@@ -1,0 +1,7 @@
+[
+ {"name":"ADECCO GROUP AG","notes":"GHG on tracenable (Annual Report 2024). Verified at source: ESG Factsheet 2024 states water not material; no waste figure -> unscored. Swiss, outside CSRD. Primary: https://www.adeccogroup.com/-/media/project/Adecco%20Group/adeccogroup/Investors/Adecco-Group-ESG-Factsheet-2024.pdf"},
+ {"name":"ROCHE PS PAR AG","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/roche-holding/ghg-emissions","notes":"Tracenable, citing Sustainability Report 2025. Swiss"},
+ {"name":"COLOPLAST B","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/coloplast/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"},
+ {"name":"ORKLA","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/orkla/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"},
+ {"name":"BARRATT REDROW PLC","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/barratt-redrow/ghg-emissions","notes":"Tracenable, citing Sustainability Data Spreadsheet 2025. UK"}
+]

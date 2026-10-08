@@ -1,0 +1,7 @@
+[
+ {"name":"SVENSKA CELLULOSA B","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/svenska-cellulosa-aktiebolaget/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"},
+ {"name":"KONGSBERG GRUPPEN","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/kongsberg-gruppen/ghg-emissions","notes":"Tracenable, citing Annual Report 2025. Norway (EEA)"},
+ {"name":"CENTRICA PLC","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2024","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/centrica/ghg-emissions","notes":"Tracenable, citing ESG Data Spreadsheet 2024. UK"},
+ {"name":"KESKO CLASS B","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/kesko/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"},
+ {"name":"GALENICA AG","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2024","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/galenica/ghg-emissions","notes":"Tracenable, citing Non-financial report 2024. Swiss"}
+]

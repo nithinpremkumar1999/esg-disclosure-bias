@@ -1,0 +1,9 @@
+[
+ {"name":"LATOUR INVESTMENT CLASS B","scope12_ghg":"Y","water":"N","waste":"N","report_year":"2025","employees":"10116","revenue_eur_m":"2500","omnibus_in_scope":"Y","source_url":"https://www.latour.se/~/media/Files/L/latour/documents/sustainability/Latour_Annual_report_2025.pdf","notes":"Primary source: Annual Report 2025 marks water and waste topics not material -> unscored (CSRD materiality route). Net sales SEK 28,145m (~EUR 2.5bn at ~11.2 SEK/EUR)"},
+ {"name":"PUMA","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/puma/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"},
+ {"name":"SACYR","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/sacyr/ghg-emissions","notes":"Tracenable, citing Financial Report 2025"},
+ {"name":"COVIVIO SA","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2024","omnibus_in_scope":"","source_url":"https://tracenable.com/company/covivio/ghg-emissions","notes":"Tracenable, citing Sustainability Report 2024. Omnibus: headcount near 1,000 threshold, to check"},
+ {"name":"SULZER AG","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/sulzer/ghg-emissions","notes":"Tracenable, citing Non-financial report 2025. Swiss"},
+ {"name":"CD PROJEKT RED","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2024","omnibus_in_scope":"","source_url":"https://tracenable.com/company/cd-projekt/ghg-emissions","notes":"Tracenable, citing Management report 2024. Omnibus: revenue likely below EUR 450m, to check"},
+ {"name":"TECHNIP ENERGIES","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/technip-energies/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"}
+]

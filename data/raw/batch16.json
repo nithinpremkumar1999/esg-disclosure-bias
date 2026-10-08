@@ -1,0 +1,5 @@
+[
+ {"name":"BAM GROEP KONINKLIJKE NV","scope12_ghg":"Y","water":"N","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://corporatereporting.bam.com/verslag/6-sustainability-statement/63-environmental-information-1/resource-use-and-circular-economy-esrs-e5","notes":"Primary: Annual Report 2025 E5 total waste 1,260.3 kt; E1-6 Scope 1+2 reported (intensity 5.9 t/EUR m and 76% reduction; absolute table beyond fetched text). No water section. Tracenable entry for 'bam' looked mismatched, not used"},
+ {"name":"DR ING HC F PORSCHE PRF AG","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://newsroom.porsche.com/assets/uploads/documents/ESG_Addendum_2025_Porsche_AG_EN.pdf","notes":"Primary: ESG Addendum 2025 gives Scope 1+2 by site; Waste (p.43) and Water (p.45) sections listed in index, content truncated in fetch"},
+ {"name":"ELISA","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/elisa/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"}
+]

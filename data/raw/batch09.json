@@ -1,0 +1,6 @@
+[
+ {"name":"DELONGHI","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/de-longhi/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"},
+ {"name":"KION GROUP AG","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/kion-group/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"},
+ {"name":"HIKMA PHARMACEUTICALS PLC","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2024","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/hikma-pharmaceuticals/ghg-emissions","notes":"Tracenable, citing Sustainability Report 2024. UK"},
+ {"name":"BIOMERIEUX SA","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/biomerieux/ghg-emissions","notes":"Tracenable, citing URD 2025"}
+]

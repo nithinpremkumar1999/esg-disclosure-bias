@@ -1,0 +1,236 @@
+{
+  "n_sample": 100,
+  "n_scored": 93,
+  "scored_rate": 0.93,
+  "log_size_centre": -2.6754543608605688,
+  "logit_intercept": 2.8397600030633976,
+  "logit_slope": 0.7819250112017181,
+  "logit_slope_se": 0.554241967270057,
+  "logit_slope_ci95": [
+    -0.3043692833682211,
+    1.8682193057716572
+  ],
+  "logit_slope_p": 0.15830335834516907,
+  "logit_slope_conservative": 2.6475214783403462,
+  "logit_slope_conservative_p": 0.22672072078178684,
+  "n_unscored_conservative": 2,
+  "fisher_table_median_split": [
+    [
+      3,
+      47
+    ],
+    [
+      4,
+      46
+    ]
+  ],
+  "fisher_p_median_split_one_sided": 0.49999999999999983,
+  "rate_top4_deciles": 1.0,
+  "rate_bottom6_deciles": 0.8833333333333333,
+  "rate_top_decile": 1.0,
+  "rate_bottom_decile": 0.9,
+  "by_decile": [
+    {
+      "decile": 1,
+      "n": 10,
+      "scored": 9,
+      "rate": 0.9,
+      "ci_lo": 0.5958436145024278,
+      "ci_hi": 0.9821242504842788,
+      "p_fitted": 0.8593091268397821
+    },
+    {
+      "decile": 2,
+      "n": 10,
+      "scored": 9,
+      "rate": 0.9,
+      "ci_lo": 0.5958436145024278,
+      "ci_hi": 0.9821242504842788,
+      "p_fitted": 0.8771556893625595
+    },
+    {
+      "decile": 3,
+      "n": 10,
+      "scored": 9,
+      "rate": 0.9,
+      "ci_lo": 0.5958436145024278,
+      "ci_hi": 0.9821242504842788,
+      "p_fitted": 0.8957203619748252
+    },
+    {
+      "decile": 4,
+      "n": 10,
+      "scored": 10,
+      "rate": 1.0,
+      "ci_lo": 0.7224598312333834,
+      "ci_hi": 1.0,
+      "p_fitted": 0.9104317496940628
+    },
+    {
+      "decile": 5,
+      "n": 10,
+      "scored": 9,
+      "rate": 0.9,
+      "ci_lo": 0.5958436145024278,
+      "ci_hi": 0.9821242504842788,
+      "p_fitted": 0.925706412216788
+    },
+    {
+      "decile": 6,
+      "n": 10,
+      "scored": 7,
+      "rate": 0.7,
+      "ci_lo": 0.39677321997956516,
+      "ci_hi": 0.892210712513788,
+      "p_fitted": 0.9390230140556529
+    },
+    {
+      "decile": 7,
+      "n": 10,
+      "scored": 10,
+      "rate": 1.0,
+      "ci_lo": 0.7224598312333834,
+      "ci_hi": 1.0,
+      "p_fitted": 0.9526385610514754
+    },
+    {
+      "decile": 8,
+      "n": 10,
+      "scored": 10,
+      "rate": 1.0,
+      "ci_lo": 0.7224598312333834,
+      "ci_hi": 1.0,
+      "p_fitted": 0.9662580942595395
+    },
+    {
+      "decile": 9,
+      "n": 10,
+      "scored": 10,
+      "rate": 1.0,
+      "ci_lo": 0.7224598312333834,
+      "ci_hi": 1.0,
+      "p_fitted": 0.9792956712922736
+    },
+    {
+      "decile": 10,
+      "n": 10,
+      "scored": 10,
+      "rate": 1.0,
+      "ci_lo": 0.7224598312333834,
+      "ci_hi": 1.0,
+      "p_fitted": 0.9906724868930308
+    }
+  ],
+  "unscored": [
+    {
+      "name": "EVOLUTION",
+      "sector": "Consumer Discretionary",
+      "size_decile": 6,
+      "n_metrics": 1,
+      "verification": "partial",
+      "country": "Sweden"
+    },
+    {
+      "name": "FRONTLINE PLC",
+      "sector": "Energy",
+      "size_decile": 6,
+      "n_metrics": 1,
+      "verification": "partial",
+      "country": "Norway"
+    },
+    {
+      "name": "DELIVERY HERO",
+      "sector": "Consumer Discretionary",
+      "size_decile": 6,
+      "n_metrics": 1,
+      "verification": "partial",
+      "country": "Germany"
+    },
+    {
+      "name": "ABIVAX SA",
+      "sector": "Health Care",
+      "size_decile": 5,
+      "n_metrics": 0,
+      "verification": "partial",
+      "country": "France"
+    },
+    {
+      "name": "ADECCO GROUP AG",
+      "sector": "Industrials",
+      "size_decile": 3,
+      "n_metrics": 1,
+      "verification": "primary",
+      "country": "Switzerland"
+    },
+    {
+      "name": "INCHCAPE PLC",
+      "sector": "Consumer Discretionary",
+      "size_decile": 2,
+      "n_metrics": 1,
+      "verification": "partial",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "LATOUR INVESTMENT CLASS B",
+      "sector": "Industrials",
+      "size_decile": 1,
+      "n_metrics": 1,
+      "verification": "primary",
+      "country": "Sweden"
+    }
+  ],
+  "by_sector": [
+    {
+      "sector": "Communication",
+      "n": 9,
+      "rate": 1.0
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "n": 16,
+      "rate": 0.8125
+    },
+    {
+      "sector": "Consumer Staples",
+      "n": 6,
+      "rate": 1.0
+    },
+    {
+      "sector": "Energy",
+      "n": 11,
+      "rate": 0.9090909090909091
+    },
+    {
+      "sector": "Health Care",
+      "n": 10,
+      "rate": 0.9
+    },
+    {
+      "sector": "Industrials",
+      "n": 27,
+      "rate": 0.9259259259259259
+    },
+    {
+      "sector": "Information Technology",
+      "n": 5,
+      "rate": 1.0
+    },
+    {
+      "sector": "Materials",
+      "n": 10,
+      "rate": 1.0
+    },
+    {
+      "sector": "Real Estate",
+      "n": 2,
+      "rate": 1.0
+    },
+    {
+      "sector": "Utilities",
+      "n": 4,
+      "rate": 1.0
+    }
+  ],
+  "n_partial": 5,
+  "n_primary": 6
+}

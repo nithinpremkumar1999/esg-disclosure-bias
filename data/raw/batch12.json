@@ -1,0 +1,4 @@
+[
+ {"name":"ELIS SA","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/elis/ghg-emissions","notes":"Tracenable, citing URD 2025"},
+ {"name":"RIGHTMOVE PLC","scope12_ghg":"Y","water":"Y","waste":"U","report_year":"2024","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/rightmove/ghg-emissions","notes":"Tracenable, citing Annual Report 2024; GHG+water. UK"}
+]

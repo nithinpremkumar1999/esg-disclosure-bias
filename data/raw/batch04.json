@@ -1,0 +1,8 @@
+[
+ {"name":"AURUBIS AG","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/aurubis/ghg-emissions","notes":"Tracenable, citing ESG Data Spreadsheet 2025"},
+ {"name":"AYVENS SA","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2024","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/ayvens/ghg-emissions","notes":"Tracenable, citing URD 2024"},
+ {"name":"HELLENIC TELECOMMUNICATIONS ORGANI","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/hellenic-telecommunications-organization/ghg-emissions","notes":"Tracenable, citing Financial Report 2025"},
+ {"name":"SHELL","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/shell/ghg-emissions","notes":"Tracenable, citing Annual Report 2025. UK"},
+ {"name":"GALDERMA GROUP N AG","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2024","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/galderma-group/ghg-emissions","notes":"Tracenable, citing ESG Report 2023 / Annual Report 2024. Swiss"},
+ {"name":"SAAB CLASS B","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/saab/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"}
+]

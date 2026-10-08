@@ -1,0 +1,4 @@
+[
+ {"name":"SODEXO SA","scope12_ghg":"Y","water":"N","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://sodexo.publispeak.com/universal-registration-document-fiscal-2025/article/120/","notes":"GHG on tracenable (URD 2025). Waste verified at source: URD Fiscal 2025 E5-5 total waste 234,609 t (tracenable false negative on waste). No water figures in sustainability chapter pages checked"},
+ {"name":"FLSMIDTH AND CO CLASS B","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/flsmidth-and-co/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"}
+]

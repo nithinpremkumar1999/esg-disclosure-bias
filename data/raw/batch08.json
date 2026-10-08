@@ -1,0 +1,6 @@
+[
+ {"name":"AIRTEL AFRICA PLC","scope12_ghg":"Y","water":"Y","waste":"U","report_year":"2025","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/airtel-africa/ghg-emissions","notes":"Tracenable, citing Annual Report 2025; GHG+water. UK"},
+ {"name":"RATIONAL AG","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/rational/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"},
+ {"name":"VALMET CORP","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/valmet/ghg-emissions","notes":"Tracenable, citing Financial Report 2025"},
+ {"name":"ARKEMA SA","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/arkema/ghg-emissions","notes":"Tracenable, citing URD 2025"}
+]

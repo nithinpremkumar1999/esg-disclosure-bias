@@ -1,0 +1,8 @@
+[
+ {"name":"ENEL","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/enel/ghg-emissions","notes":"Tracenable, citing Integrated Report 2025"},
+ {"name":"ENI","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/eni/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"},
+ {"name":"ATLAS COPCO CLASS A","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2024","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/atlas-copco/ghg-emissions","notes":"Tracenable, citing Annual Report 2024"},
+ {"name":"COVIVIO SA","employees":"959","omnibus_in_scope":"N","notes":"Tracenable, citing Sustainability Report 2024. Omnibus: average headcount 959 in 2025 (3,452 at period end incl. consolidated hotel staff), per URD 2025 via https://tracenable.com/company/covivio/employee-count -> below 1,000 on the average-employee test (borderline)"},
+ {"name":"CD PROJEKT RED","employees":"1261","revenue_eur_m":"203","omnibus_in_scope":"N","notes":"Tracenable, citing Management report 2024. FY2025 revenue PLN 866.9m (~EUR 203m at ~4.27 PLN/EUR), 1,261 employees (gameworldobserver.com, 20 Mar 2026) -> below EUR 450m turnover threshold"},
+ {"name":"FRONTLINE PLC","employees":"85","omnibus_in_scope":"N","notes":"Tracenable: GHG only (ESG Report 2024). Source check partial: 2025 ESG report summary (sustainabilityreports.com/frontline/2025/esg-report) shows Scope 1 only, no water/waste. Cyprus-domiciled; 85 employees (seafarers are non-employee workers) per tracenable employee-count -> below Omnibus threshold"}
+]

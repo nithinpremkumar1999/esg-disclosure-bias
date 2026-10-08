@@ -1,0 +1,8 @@
+[
+ {"name":"INCHCAPE PLC","scope12_ghg":"Y","water":"N","waste":"N","report_year":"2024","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/inchcape/ghg-emissions","notes":"GHG on tracenable (Annual Report 2024). Checked at source: 2024 investor summary has no water or waste quantities (circularity material, no tonnage) -> unscored. https://www.inchcape.com/~/media/files/i/inchcape/corp/sustainability/sustainability-reporting/2024-investor-summary.pdf. UK"},
+ {"name":"EDP RENEWABLES SA","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2024","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/edp-renovaveis/ghg-emissions","notes":"Tracenable, citing Annual Report 2024 (GHG) and 2023 (waste)"},
+ {"name":"BRUNELLO CUCINELLI","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/brunello-cucinelli/ghg-emissions","notes":"Tracenable, citing Financial Report 2025"},
+ {"name":"DEUTSCHE LUFTHANSA AG","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2024","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/deutsche-lufthansa/ghg-emissions","notes":"Tracenable, citing Sustainability Data Spreadsheet 2024"},
+ {"name":"PERSIMMON PLC","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2024","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/persimmon/ghg-emissions","notes":"Tracenable, citing Annual Report 2024. UK"},
+ {"name":"YARA INTERNATIONAL","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/yara-international/ghg-emissions","notes":"Tracenable, citing Annual Report 2025. Norway (EEA)"}
+]

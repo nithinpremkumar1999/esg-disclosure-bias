@@ -1,0 +1,5 @@
+[
+ {"name":"GIVAUDAN SA","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/givaudan/ghg-emissions","notes":"Tracenable, citing Integrated Report 2025. Swiss"},
+ {"name":"ARCELORMITTAL SA","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/arcelormittal/ghg-emissions","notes":"Tracenable, citing Sustainability Report 2025"},
+ {"name":"MICHELIN","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/michelin/ghg-emissions","notes":"Tracenable, citing URD 2025"}
+]

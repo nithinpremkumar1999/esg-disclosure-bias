@@ -1,0 +1,8 @@
+[
+ {"name":"KONINKLIJKE KPN NV","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/koninklijke-kpn/ghg-emissions","notes":"Tracenable, citing Integrated Report 2025"},
+ {"name":"EDP ENERGIAS DE PORTUGAL","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2024","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/edp/ghg-emissions","notes":"Tracenable, citing Integrated Report 2024"},
+ {"name":"DAIMLER TRUCK HOLDING E AG","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/daimler-truck-holding/ghg-emissions","notes":"Tracenable, citing Integrated Report 2025"},
+ {"name":"TOTALENERGIES","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2024","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/totalenergies/ghg-emissions","notes":"Tracenable, citing Sustainable Development Report 2025"},
+ {"name":"UNILEVER PLC","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2024","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/unilever/ghg-emissions","notes":"Tracenable, citing Annual Report 2024. UK"},
+ {"name":"SANOFI SA","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2024","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/sanofi/ghg-emissions","notes":"Tracenable, citing ESG Report 2024"}
+]

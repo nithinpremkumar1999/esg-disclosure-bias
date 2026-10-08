@@ -1,0 +1,8 @@
+[
+ {"name":"IVECO GROUP NV","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/iveco-group/ghg-emissions","notes":"Tracenable, citing Annual Report 2025"},
+ {"name":"NESTLE SA","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/nestle/ghg-emissions","notes":"Tracenable, citing Non-financial report 2025. Swiss"},
+ {"name":"SONOVA HOLDING AG","scope12_ghg":"Y","water":"Y","waste":"Y","report_year":"2025","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/sonova-holding/ghg-emissions","notes":"Tracenable, citing ESG Report 2025. Swiss"},
+ {"name":"CONVATEC GROUP PLC","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2024","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/convatec-group/ghg-emissions","notes":"Tracenable, citing Annual Report 2024. UK"},
+ {"name":"REPSOL","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2025","omnibus_in_scope":"Y","source_url":"https://tracenable.com/company/repsol/ghg-emissions","notes":"Tracenable, citing Consolidated Management Report 2025"},
+ {"name":"ANTOFAGASTA PLC","scope12_ghg":"Y","water":"U","waste":"Y","report_year":"2024","omnibus_in_scope":"n/a","source_url":"https://tracenable.com/company/antofagasta/ghg-emissions","notes":"Tracenable, citing Sustainability Report 2024. UK"}
+]
