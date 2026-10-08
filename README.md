@@ -16,12 +16,12 @@ Each step writes to `data/` or `outputs/`. All random draws use fixed seeds.
 
 | Step | Script | Output |
 |---|---|---|
-| 1. Universe | `src/01_universe.py data/raw/EXSA_holdings.csv` | `data/universe.csv`: 600 equities, size deciles on the 470 non-financials |
-| 2. Sample | `src/02_sample.py` | `data/disclosure_sample.csv`: 10 random names per decile. Run once; it refuses to overwrite collected data |
+| 1. Universe | `src/universe.py data/raw/EXSA_holdings.csv` | `data/universe.csv`: 600 equities, size deciles on the 470 non-financials |
+| 2. Sample | `src/sample.py` | `data/disclosure_sample.csv`: 10 random names per decile. Run once; it refuses to overwrite collected data |
 | 2b. Collection | by hand; each batch logged in `data/raw/batch*.json` and merged in order with `src/update_sample.py` | flags, source URLs and verification level. See `data/COLLECTION_NOTES.md` |
-| 3. Disclosure model (H1) | `src/03_disclosure_model.py` | `outputs/h1.json` |
-| 4. Simulation (H2–H4, sweep) | `src/04_simulation.py` | `outputs/sim.json` |
-| 5. Report | `src/05_build_report.py` | `outputs/results.json`, `outputs/chart_c*.html`, `site/index.html`, `site/_redirects` |
+| 3. Disclosure model (H1) | `src/disclosure_model.py` | `outputs/h1.json` |
+| 4. Simulation (H2–H4, sweep) | `src/simulation.py` | `outputs/sim.json` |
+| 5. Report | `src/build_report.py` | `outputs/results.json`, `outputs/chart_c*.html`, `site/index.html`, `site/_redirects` |
 
 To reproduce the results from the committed data:
 
